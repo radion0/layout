@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,400&display=swap');
+
+@font-face{
+	font-family: 'Kontanter';
+	src: url('../assets/fonts/Kontanter-Bold.otf');
+}
+@font-face{
+	font-family: 'Point-Bold';
+	src: url('../assets/fonts/Point-Bold.ttf');
+}
+@font-face{
+	font-family: 'Point-Light';
+	src: url('../assets/fonts/Point-Light.ttf');
+}
+@font-face{
+	font-family: 'Point-Regular';
+	src: url('../assets/fonts/Point-Regular.ttf');
+}
+@font-face{
+	font-family: 'Point-Regular';
+	src: url('../assets/fonts/Point-Regular.ttf');
+}
+@font-face{
+	font-family: 'Point-SemiBold';
+	src: url('../assets/fonts/Point-SemiBold.ttf');
+}
